@@ -8,8 +8,6 @@ This is the place where I enjoy my life and break things :rofl:
 - Read more about my main project at [urside.net](https://www.urside.net).
 - Fun fact: I love furries<3 and animes<3.
 
-<br>
-
 # 📚 Skills
 
 <table align="center" style="width: 100%;">
@@ -81,8 +79,6 @@ This is the place where I enjoy my life and break things :rofl:
 		</tr>
 	</tbody>
 </table>
-
-<br>
 
 # 📭 Contact
 

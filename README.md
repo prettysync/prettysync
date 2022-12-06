@@ -4,7 +4,7 @@ This is the place where I enjoy my life and break things :rofl:
 
 - I’m currently working on something cool :wink:.
 - Ask me about anything related to Hardware Engineering or Software Development.
-- How to reach me: [@wealthysync](https://twitter.com/wealthysync) or [sync@urside.net](mailto:sync@urside.net).
+- How to reach me: [@prettysync](https://twitter.com/prettysync) or [sync@urside.net](mailto:sync@urside.net).
 - Read more about my main project at [urside.net](https://www.urside.net).
 - Fun fact: I love furries<3 and animes<3.
 

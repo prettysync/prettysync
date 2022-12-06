@@ -87,7 +87,7 @@ This is the place where I enjoy my life and break things :rofl:
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://twitter.com/wealthysync">
+	<a href="https://twitter.com/prettysync">
 		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
